@@ -33,7 +33,10 @@ public class SepatuAksi {
         Andi.Harga="Rp.1.500.000";
         Andi.Model="Tali Zig-Zag";
         
-      
+        Udin.MengubahHarga();
+        Ali.MengubahHarga();
+        Udin.MengubahHarga();
+        
     }
  
 }
